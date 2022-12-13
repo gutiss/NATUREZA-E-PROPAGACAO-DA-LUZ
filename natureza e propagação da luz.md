@@ -52,6 +52,16 @@ Os **meios translúcidos** permitem a passagem de parte da luz, permitindo assim
 
 ## 2.2 Princípios da propagação da luz
 
+Os princípios da propagação explicam o comportamento dos raios de luz em condições e situações específicas, envolvendo meios ópticos homogêneos e isotrópicos. Sendo eles: 
+
+* Princípio de propagação retilínea da luz: Por meio deste princípio sabemos que em meios transparentes e homogêneos, os raios de luz se propagam em linha reta.
+
+* Princípio de independência dos raios luminosos: Quando dois raios de luz vindo de diferentes fontes se cruzam, assim atravessando um ao outro. Eles seguem suas trajetórias de forma independente.
+* Princípio de reversibilidade dos raios luminosos: Se um raio luminoso se propaga em uma direção e em determinado sentido, esse princípio nos afirma que outro raio ira se propagar na mesma direção em sentido contrário.
+
+## 3.2 Fenômenos ópticos
+
+Fenônemos ópticos são eventos resultantes de interação da luz com a matéria que podem ser observados a olho nu. Fenômenos esses bastente conhecidos e já citados anteriormente, como a reflexão, a refração e a polarização.
 
 
 
