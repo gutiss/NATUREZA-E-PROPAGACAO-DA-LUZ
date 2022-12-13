@@ -1,4 +1,5 @@
  # 1. NATUREZA DA LUZ
+ 
 A Natureza da luz é um dos principais objetos de estudo da Física, pois é um fenômeno extremamente complexo. Dada sua complexidade, vários cientistas ao longo de anos buscaram então descobrir sua natureza. Durante esse período, a luz foi estudada e interpretada de diversas formas. Entre essas diversas interpretações destacam-se a Teoria Corpuscular (luz como uma particula), defendida por Isaac Newton, e a Teoria Ondulatória (luz como uma onda), defendida por Christian Huygens. Sendo posteriormente comprovado se tratar de uma dualidade, ou seja, pode ser interpretada como onda em determinadas situações e particulas em outras.
 
 ## 1.1 Teoria Ondulatória da Luz
@@ -23,3 +24,6 @@ Esse comportamento apresentado permitiu que Newton conseguia explicar fenômenos
 
 # 2. Propagação da Luz
 
+Assim como sua natureza, seu meio de propragação é um tema muito importante nesse ramo. A luz pode se propagar em três diferentes meios, possuindo em cada meio diferentes comportamento, que são: os **meios transparentes**, os **meios translúcidos** e os **meios opacos**.
+
+* **Meio transparente:**  
