@@ -30,21 +30,21 @@ Assim como sua natureza, seu meio de propragação é um tema muito importante n
 
 ### 2.1.1 Meio transparente 
 Os **meios transparentes** permitem a passagem da luz, permitindo assim que objetos posssam ser observados através deles. Ou seja, a luz pode se propagar sem sofrer alterações. Ex: O vácuo.
-No entanto, existem algumas exceções, como vidro, o ar e água que embora sejam transparentes causam uma pequena alteração na propagação.
+No entanto, existem algumas exceções, como vidro, o ar e água que embora sejam transparentes causam uma pequena alteração na propagação.[^3]
 
 ![luz-propagacao-meios-transparentes](https://user-images.githubusercontent.com/118854820/207232731-c97b17b5-0d64-4cb9-93cf-c81e6a61d647.png)
 
 **Figura 3** - Propagação em meios transparentes.
 
 ### 2.1.2 Meio translúcidos
-Os **meios translúcidos** permitem a passagem de parte da luz, permitindo assim que os objetos possam ser observados, mas não totalmente. Ou seja, a passagem da luz é irregular, a luz que emana deles tem diferentes direções dos raios que incidem sobre eles. Ex: nuvens, neblina, vidro fosco e etc.
+Os **meios translúcidos** permitem a passagem de parte da luz, permitindo assim que os objetos possam ser observados, mas não totalmente. Ou seja, a passagem da luz é irregular, a luz que emana deles tem diferentes direções dos raios que incidem sobre eles. Ex: nuvens, neblina, vidro fosco e etc.[^3]
 
 ![luz-propagacao-meios-translucidos](https://user-images.githubusercontent.com/118854820/207236233-b363e60d-65b3-46c9-89a2-ab1b65deb97a.png)
 
 **Figura 4** - Propagação em meios translúcidos.
 
 ### 2.1.3 Meio opaco
-* Os **meios opacos** por sua vez não permitem a passagem da luz, assim impedindo a propagação da luz. Logo, não permitindo a observação de objetos posicionados atrás do mesmo. Ex: Madeira, Metal, concreto e etc.
+* Os **meios opacos** por sua vez não permitem a passagem da luz, assim impedindo a propagação da luz. Logo, não permitindo a observação de objetos posicionados atrás do mesmo. Ex: Madeira, Metal, concreto e etc. [^3]
 
 ![luz-propagacao-meios-opacos](https://user-images.githubusercontent.com/118854820/207237131-e311fdb0-40fa-4f72-97d4-da6cfa1cabcc.png)
 
@@ -61,5 +61,5 @@ Os **meios translúcidos** permitem a passagem de parte da luz, permitindo assim
 
 
 [^1]:Halliday, David, 1916-2010. Fundamentos de física, volume 4 : óptica e física moderna / David Halliday , Robert Resnick , Jearl Walker ; tradução Ronaldo Sérgio de Biasi.- 10. ed. - Rio de Janeiro : LTC, 2016.
-[^2]:"Luz - fontes, propagação e principais fenômenos ópticos | PRAVALER." https://www.pravaler.com.br/luz-fontes-propagacao-e-principais-fenomenos-opticos/#reflexao .
-
+[^2]:"Luz - fontes, propagação e principais fenômenos ópticos | PRAVALER." https://www.pravaler.com.br/luz-fontes-propagacao-e-principais-fenomenos-opticos/#reflexao.
+[^3]:Helerbrock, Rafael "Meios de propagação da luz: exemplos e exercícios - Mundo Educação." https://mundoeducacao.uol.com.br/fisica/meios-propagacao-luz.htm.
