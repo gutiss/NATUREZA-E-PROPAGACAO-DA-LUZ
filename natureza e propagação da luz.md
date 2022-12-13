@@ -3,8 +3,9 @@ A Natureza da luz é um dos principais objetos de estudo da Física, pois é um 
 
 ## 1.1 Teoria Ondulatória da Luz
 
-O físico holandês Christian Huygens, foi a primeira pessoa a apresentar uma teoria ondulatória convincente para a luz em 1678. 
+O físico holandês Christian Huygens, foi a primeira pessoa a apresentar uma teoria ondulatória convincente para a luz em 1678. A teoria ondulatória afirma que a luz é uma onda de natureza eletromagnética que vibrava transversalmente em relação a sua propagação.
 
-![image](https://user-images.githubusercontent.com/118854820/207200553-df473ab2-843e-4f7a-8f76-3728674da533.png)
+![image](https://user-images.githubusercontent.com/118854820/207201242-debd7958-f2d4-421c-b688-2638e4f2a304.png)
+**Figura 1** - Onda transversal.
 
-A teoria ondulatória afirma que a luz é uma onda de natureza eletromagnética que vibrava transversalmente em relação a sua propagação. 
+Portanto, a luz é uma onda de origem eletromagnética que se propaga em qualquer meio, inclusive no vácuo. Neste modelo, a luz sofre reflexão e refração, conforme explicado pelo Princípio de Huygens.
