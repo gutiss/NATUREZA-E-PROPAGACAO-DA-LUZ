@@ -26,10 +26,15 @@ Esse comportamento apresentado permitiu que Newton conseguia explicar fenômenos
 
 Assim como sua natureza, seu meio de propragação é um tema muito importante nesse ramo. A luz pode se propagar em três diferentes meios, possuindo em cada meio diferentes comportamento, que são: os **meios transparentes**, os **meios translúcidos** e os **meios opacos**.
 
-* **Meio transparente:** O meio transparente permite a passagem da luz, permitindo assim que objetos posssam ser observados através deles. Ou seja, a luz pode se propagar sem sofrer alterações. Ex: O vácuo.
+* **Meio transparente:** Os meios transparentes permitem a passagem da luz, permitindo assim que objetos posssam ser observados através deles. Ou seja, a luz pode se propagar sem sofrer alterações. Ex: O vácuo.
 No entanto, existem algumas exceções, como vidro, o ar e água que embora sejam transparentes causam uma pequena alteração na propagação.
 
 ![luz-propagacao-meios-transparentes](https://user-images.githubusercontent.com/118854820/207232731-c97b17b5-0d64-4cb9-93cf-c81e6a61d647.png)
 
+**Figura 3** - Propagação em meios transparentes.
 
-* 
+* **Meio translúcidos:** Os meios translúcidos permitem a passagem de parte da luz, permitindo assim que os objetos possam ser observados, mas não totalmente. Ou seja, a passagem da luz é irregular, a luz que emana deles tem diferentes direções dos raios que incidem sobre eles. Ex: nuvens, neblina, vidro fosco.
+
+![luz-propagacao-meios-translucidos](https://user-images.githubusercontent.com/118854820/207236233-b363e60d-65b3-46c9-89a2-ab1b65deb97a.png)
+
+**Figura 4** - Propagação em meios translúcidos.
