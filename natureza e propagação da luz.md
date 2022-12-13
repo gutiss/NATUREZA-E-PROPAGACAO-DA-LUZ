@@ -38,8 +38,10 @@ No entanto, existem algumas exceções, como vidro, o ar e água que embora seja
 ![luz-propagacao-meios-translucidos](https://user-images.githubusercontent.com/118854820/207236233-b363e60d-65b3-46c9-89a2-ab1b65deb97a.png)
 
 **Figura 4** - Propagação em meios translúcidos.
+
 * **Meio opaco:** Os meios opacos por sua vez não permitem a passagem da luz, assim impedindo a propagação da luz. Logo, não permitindo a observação de objetos posicionados atrás do mesmo. Ex: Madeira, Metal, concreto e etc.
 
 ![luz-propagacao-meios-opacos](https://user-images.githubusercontent.com/118854820/207237131-e311fdb0-40fa-4f72-97d4-da6cfa1cabcc.png)
 
+**Figura 5** - Propagação em meios opacos.
 
