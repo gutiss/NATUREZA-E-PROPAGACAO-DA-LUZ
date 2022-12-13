@@ -69,9 +69,11 @@ Fenônemos ópticos são eventos resultantes de interação da luz com a matéri
 
 ![image](https://user-images.githubusercontent.com/118854820/207246335-ebe37ec6-59b2-4398-8ef3-81018dd7c724.png)
 
+**Figura 6** - Raios refletido e refratado.
 
+Na figura acima podemos observar o raio incidente, possuindo ângulo $\theta_1$, o raio de reflexão, possuindo ângulo $\theta'_1$ e o raio de refração, possuindo ângulo $\theta_2$.
 
-
+Podemos assim, observar a lei de reflexão e a lei de refração.
 
 
 [^1]:Halliday, David, 1916-2010. Fundamentos de física, volume 4 : óptica e física moderna / David Halliday , Robert Resnick , Jearl Walker ; tradução Ronaldo Sérgio de Biasi.- 10. ed. - Rio de Janeiro : LTC, 2016.
