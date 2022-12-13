@@ -69,12 +69,25 @@ Fenônemos ópticos são eventos resultantes de interação da luz com a matéri
 
 ![image](https://user-images.githubusercontent.com/118854820/207246335-ebe37ec6-59b2-4398-8ef3-81018dd7c724.png)
 
-**Figura 6** - Raios refletido e refratado.
+**Figura 6** - Raios incidente, refletido e refratado.
 
-Na figura acima podemos observar o raio incidente, possuindo ângulo $\theta_1$, o raio de reflexão, possuindo ângulo $\theta'_1$ e o raio de refração, possuindo ângulo $\theta_2$.
+Na figura acima podemos observar o raio incidente, possuindo ângulo $\theta_1$, o raio de reflexão, possuindo ângulo $\theta'_1$ e o raio de refração, possuindo ângulo $\theta_2$ (esses ângulos são medidos em relação à normal), alem de diferentes meios, que seriam a água e o ar.
 
 Podemos assim, observar a lei de reflexão e a lei de refração.
 
+* **Lei de Reflexão:** estabelece que os raios de luz incidente e refletido e a direção normal estão no mesmo plano, é que  em relação à reta normal os raios incidentes e refletidos possuiem o mesmo ângulo.
+
+$$\theta_1=\theta'_1$$
+
+* **Lei de Refração:** estabelece que um raio ao mudar de um meio para outro, onde esses meio possuam diferentes índices de refração, ele sofrerá um desvio, podendo se aproximar ou afastar-se da normal.
+
+$$n_2\sin\theta_2=n_1\sin\theta_1$$ (conhecida como Lei de Snell)
+
+* Polarização: A polarização ocorre quando a luz natural, que se propaga em todas as direções e sentidos, ao incidir em um filtro polarizador passa a se propagar em um único sentido.
+
+![1280px-Wire-grid-polarizer svg](https://user-images.githubusercontent.com/118854820/207252066-3c8f1b0e-ecc2-45ba-9f65-c5ede5b3ae61.png)
+
+**Figura 7** - Luz sendo polarizada.
 
 [^1]:Halliday, David, 1916-2010. Fundamentos de física, volume 4 : óptica e física moderna / David Halliday , Robert Resnick , Jearl Walker ; tradução Ronaldo Sérgio de Biasi.- 10. ed. - Rio de Janeiro : LTC, 2016.
 [^2]:"Luz - fontes, propagação e principais fenômenos ópticos | PRAVALER." https://www.pravaler.com.br/luz-fontes-propagacao-e-principais-fenomenos-opticos/#reflexao.
