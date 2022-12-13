@@ -4,7 +4,7 @@ A Natureza da luz é um dos principais objetos de estudo da Física, pois é um 
 
 ## 1.1 Teoria Ondulatória da Luz
 
-Em 1678, o físico holandês Christian Huygens, foi a primeira pessoa a apresentar uma teoria ondulatória convincente para a luz. A teoria ondulatória afirma que a luz é uma onda de natureza eletromagnética que vibrava transversalmente em relação a sua propagação.
+Em 1678, o físico holandês Christian Huygens, foi a primeira pessoa a apresentar uma teoria ondulatória convincente para a luz. A teoria ondulatória afirma que a luz é uma onda de natureza eletromagnética que vibrava transversalmente em relação a sua propagação.[^1]
 
 ![image](https://user-images.githubusercontent.com/118854820/207201242-debd7958-f2d4-421c-b688-2638e4f2a304.png)
 
@@ -24,7 +24,7 @@ Esse comportamento apresentado permitiu que Newton conseguia explicar fenômenos
 
 # 2. Propagação da Luz
 
-Assim como sua natureza, seu meio de propragação é um tema muito importante nesse ramo. A luz pode se propagar em três diferentes meios, possuindo em cada meio diferentes comportamento, que são: os **meios transparentes**, os **meios translúcidos** e os **meios opacos**.
+Assim como sua natureza, seu meio de propragação é um tema muito importante nesse ramo. A luz pode se propagar em três diferentes meios, possuindo em cada meio diferentes comportamento, que são: os **meios transparentes**, os **meios translúcidos** e os **meios opacos**. [^2]
 
 * **Meio transparente:** Os meios transparentes permitem a passagem da luz, permitindo assim que objetos posssam ser observados através deles. Ou seja, a luz pode se propagar sem sofrer alterações. Ex: O vácuo.
 No entanto, existem algumas exceções, como vidro, o ar e água que embora sejam transparentes causam uma pequena alteração na propagação.
@@ -44,4 +44,15 @@ No entanto, existem algumas exceções, como vidro, o ar e água que embora seja
 ![luz-propagacao-meios-opacos](https://user-images.githubusercontent.com/118854820/207237131-e311fdb0-40fa-4f72-97d4-da6cfa1cabcc.png)
 
 **Figura 5** - Propagação em meios opacos.
+
+
+
+
+
+
+
+
+
+[^1]:Halliday, David, 1916-2010. Fundamentos de física, volume 4 : óptica e física moderna / David Halliday , Robert Resnick , Jearl Walker ; tradução Ronaldo Sérgio de Biasi.- 10. ed. - Rio de Janeiro : LTC, 2016.
+[^2]:"Luz - fontes, propagação e principais fenômenos ópticos | PRAVALER." https://www.pravaler.com.br/luz-fontes-propagacao-e-principais-fenomenos-opticos/#reflexao .
 
