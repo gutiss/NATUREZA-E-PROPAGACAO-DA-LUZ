@@ -59,11 +59,11 @@ Os princípios da propagação explicam o comportamento dos raios de luz em cond
 * Princípio de independência dos raios luminosos: Quando dois raios de luz vindo de diferentes fontes se cruzam, assim atravessando um ao outro. Eles seguem suas trajetórias de forma independente.
 * Princípio de reversibilidade dos raios luminosos: Se um raio luminoso se propaga em uma direção e em determinado sentido, esse princípio nos afirma que outro raio ira se propagar na mesma direção em sentido contrário.
 
-## 3.2 Fenômenos ópticos
+## 2.3 Fenômenos ópticos
 
 Fenônemos ópticos são eventos resultantes de interação da luz com a matéria que podem ser observados a olho nu. Fenômenos esses bastente conhecidos e já citados anteriormente, como a reflexão, a refração e a polarização.
 
-
+* Reflexão: Ocorre quando a luz incide sobre uma superfície refletora e retorna para o seu meio de propagação original.
 
 
 
