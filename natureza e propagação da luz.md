@@ -1,5 +1,5 @@
  # 1. NATUREZA DA LUZ
-A Natureza da luz é um dos principais objetos de estudo da Física, pois é um fenômeno extremamente complexo. Dada sua complexidade, vários cientistas ao longo de anos buscaram então descobrir sua natureza. Durante esse período, a luz foi estudade e interpretada de diversas formas. Entre essas diversas interpretações destacam-se a Teoria Corpuscular, defendida por Isaac Newton, e a Teoria Ondulatória,defendida por Christian Huygens.
+A Natureza da luz é um dos principais objetos de estudo da Física, pois é um fenômeno extremamente complexo. Dada sua complexidade, vários cientistas ao longo de anos buscaram então descobrir sua natureza. Durante esse período, a luz foi estudada e interpretada de diversas formas. Entre essas diversas interpretações destacam-se a Teoria Corpuscular (luz como uma particula), defendida por Isaac Newton, e a Teoria Ondulatória (luz como uma onda), defendida por Christian Huygens. Sendo posteriormente comprovado se tratar de uma dualidade, ou seja, pode ser interpretada como onda em determinadas situações e particulas em outras.
 
 ## 1.1 Teoria Ondulatória da Luz
 
@@ -9,4 +9,6 @@ Em 1678, o físico holandês Christian Huygens, foi a primeira pessoa a apresent
 
 **Figura 1** - Onda transversal.
 
-Onda transversal é uma onda cuja direção de vibração é perpendicular a direção de propagação. Portanto, segundo a teoria ondulatótia a luz é uma onda de origem eletromagnética, ou seja, podendo se propaga em qualquer meio, inclusive no vácuo. 
+Onda transversal é uma onda cuja direção de vibração é perpendicular a direção de propagação. Portanto, segundo a teoria ondulatótia a luz é uma onda de origem eletromagnética, ou seja, podendo se propaga em qualquer meio, inclusive no vácuo. Esse corpotamanto explica o surgimento de fenômenos como a interferência, difração, refração e polarização.
+
+## 1.2 Teoria Corpuscular da Luz
