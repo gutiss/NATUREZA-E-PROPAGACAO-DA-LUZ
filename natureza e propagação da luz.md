@@ -12,3 +12,6 @@ Em 1678, o físico holandês Christian Huygens, foi a primeira pessoa a apresent
 Onda transversal é uma onda cuja direção de vibração é perpendicular a direção de propagação. Portanto, segundo a teoria ondulatótia a luz é uma onda de origem eletromagnética, ou seja, podendo se propaga em qualquer meio, inclusive no vácuo. Esse corpotamanto explica o surgimento de fenômenos como a interferência, difração, refração e polarização.
 
 ## 1.2 Teoria Corpuscular da Luz
+
+A teoria Corpuscular por sua vez, teve como primeiro representante o físico inglês Isaac Newton que em 1672, apresentou a teoria que ficou conhecida como modelo corpuscular da luz. Nesta teoria, a luz era considerada como um feixe de partículas emitidas por uma fonte de luz, durante seus experimentos Newton descobriu que a luz poderia se dividir em muitas cores através de um prisma, e usou esse conceito experimental para analisar a luz.
+
