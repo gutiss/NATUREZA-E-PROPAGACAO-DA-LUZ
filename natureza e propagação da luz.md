@@ -63,7 +63,11 @@ Os princípios da propagação explicam o comportamento dos raios de luz em cond
 
 Fenônemos ópticos são eventos resultantes de interação da luz com a matéria que podem ser observados a olho nu. Fenômenos esses bastente conhecidos e já citados anteriormente, como a reflexão, a refração e a polarização.
 
-* Reflexão: Ocorre quando a luz incide sobre uma superfície refletora e retorna para o seu meio de propagação original.
+* Reflexão: Ocorre quando a luz incide sobre uma superfície refletora se mantendo no mesmo meio, mudando apenas sua direção de propagação.
+
+* Refração: A refração ocorre quando a luz passa por dois meios que possuam diferentes índices de refração.
+
+![image](https://user-images.githubusercontent.com/118854820/207246335-ebe37ec6-59b2-4398-8ef3-81018dd7c724.png)
 
 
 
