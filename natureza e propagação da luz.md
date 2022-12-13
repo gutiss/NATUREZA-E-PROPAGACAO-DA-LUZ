@@ -15,3 +15,11 @@ Onda transversal é uma onda cuja direção de vibração é perpendicular a dir
 
 A teoria Corpuscular por sua vez, teve como primeiro representante o físico inglês Isaac Newton que em 1672, apresentou a teoria que ficou conhecida como modelo corpuscular da luz. Nesta teoria, a luz era considerada como um feixe de partículas emitidas por uma fonte de luz, durante seus experimentos Newton descobriu que a luz poderia se dividir em muitas cores através de um prisma, e usou esse conceito experimental para analisar a luz.
 
+![image](https://user-images.githubusercontent.com/118854820/207229200-574a82dd-9412-4e74-ba0e-db645e468e7f.png)
+
+**Figura 2** - Dipersão da luz através de um prisma.
+
+Esse comportamento apresentado permitiu que Newton conseguia explicar fenômenos físicos já conhecidos na época, como a reflexão e a refração.
+
+# 2. Propagação da Luz
+
